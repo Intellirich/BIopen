@@ -1,0 +1,1 @@
+﻿ALTER TABLE grandi_strutt_vendita ADD COLUMN the_geom geometry;
